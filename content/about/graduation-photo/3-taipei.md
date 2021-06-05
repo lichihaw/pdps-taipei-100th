@@ -1,106 +1,108 @@
 ---
-title: 臺北市士林區時期
+title: 平等國小時期
 lastmod: 2002-01-28
 layout: graduation-photo
 introduction: "
 臺北市平等國小已創校百周年，學校發展大致可以分為三個時期：日治時期(民國10-34年)、光復之後士林鎮時期(民國35-62年)、現今的臺北市士林區時期(民國63年迄今)。"
 description: "
-## 臺北市士林區時期(民國63年迄今)
+## 平等國小時期(民國63年迄今)
 
 民國63年(西元1974年) 學校改稱「臺北市士林區平等國民小學」。"
 block: 
-  - title: 民國64年畢業(第9任校長 陳如岳)
-    image: "/images/uploads/graduation_t/06407graduation_p00.jpg"
-  - title: 民國65年畢業(第9任校長 陳如岳)
-    image: "/images/uploads/graduation_t/06507graduation_p26.jpg"
-  - title: 民國66年畢業(第10任校長 黃清一)
-    image: "/images/uploads/graduation_t/06607graduation_p00.jpg"
-  - title: 民國67年畢業(第10任校長 黃清一)
-    image: "/images/uploads/graduation_t/06707graduation_p00.jpg"
-  - title: 民國68年畢業(第10任校長 黃清一)
-    image: "/images/uploads/graduation_t/06807graduation_p00.jpg"
-  - title: 民國69年畢業(第10任校長 黃清一)
-    image: "/images/uploads/graduation_t/06907graduation_p00.jpg"
-  - title: 民國70年畢業(第11任校長 周乃文)
-    image: "/images/uploads/graduation_t/07007graduation_p00.jpg"
-  - title: 民國71年畢業(第11任校長 周乃文)
-    image: "/images/uploads/graduation_t/07107graduation_p00.jpg"
-  - title: 民國72年畢業(第11任校長 周乃文)
-    image: "/images/uploads/graduation_t/07207graduation_p00.jpg"
-  - title: 民國73年畢業(第12任校長 陳文欽)
-    image: "/images/uploads/graduation_t/07307graduation_p00.jpg"
-  - title: 民國74年畢業(第12任校長 陳文欽)
-    image: "/images/uploads/graduation_t/07407graduation_p00.jpg"
-  - title: 民國75年畢業(第12任校長 陳文欽)
-    image: "/images/uploads/graduation_t/07506graduation_p00.jpg"
-  - title: 民國76年畢業(第13任校長 楊宗憲)
-    image: "/images/uploads/graduation_t/07606graduation_p00.jpg"
-  - title: 民國77年畢業(第13任校長 楊宗憲)
-    image: "/images/uploads/graduation_t/07706graduation_p00.jpg"
-  - title: 民國78年畢業(第13任校長 楊宗憲)
-    image: "/images/uploads/graduation_t/07806graduation_p00.jpg"
-  - title: 民國79年畢業(第13任校長 楊宗憲)
-    image: "/images/uploads/graduation_t/07906graduation_p00.jpg"
-  - title: 民國80年畢業(第13任校長 楊宗憲)
-    image: "/images/uploads/graduation_t/08007graduation_p00.jpg"
-  - title: 民國81年畢業(第14任校長 黃明珠)
-    image: "/images/uploads/graduation_t/08107graduation_p00.jpg"
-  - title: 民國82年畢業(第14任校長 黃明珠)
-    image: "/images/uploads/graduation_t/08207graduation_p00.jpg"
-  - title: 民國83年畢業(第14任校長 黃明珠)
-    image: "/images/uploads/graduation_t/08306graduation_p00.jpg"
-  - title: 民國84年畢業(第15任校長 林淑梅)
-    image: "/images/uploads/graduation_t/08406graduation_p00.jpg"
-  - title: 民國85年畢業(第15任校長 林淑梅)
-    image: "/images/uploads/graduation_t/08506graduation_p00.jpg"
-  - title: 民國86年畢業(第15任校長 林淑梅)
-    image: "/images/uploads/graduation_t/08606graduation_p00.jpg"
-  - title: 民國87年畢業(第16任校長 廖金春)
-    image: "/images/uploads/graduation_t/08706graduation_p00.jpg"
-  - title: 民國88年畢業(第16任校長 廖金春)
-    image: "/images/uploads/graduation_t/08806graduation_p00.jpg"
-  - title: 民國89年畢業(第16任校長 廖金春)
-    image: "/images/uploads/graduation_t/08906graduation_p00.jpg"
-  - title: 民國90年畢業(第16任校長 廖金春)
-    image: "/images/uploads/graduation_t/09006graduation_p00.jpg"
-  - title: 民國91年畢業(第17任校長 翁繩玉)
-    image: "/images/uploads/graduation_t/09106graduation_p00.jpg"
-  - title: 民國92年畢業(第17任校長 翁繩玉)
-    image: "/images/uploads/graduation_t/09206graduation_p00.jpg"
-  - title: 民國93年畢業(第17任校長 翁繩玉)
-    image: "/images/uploads/graduation_t/09306graduation_p00.jpg"
-  - title: 民國94年畢業(第17任校長 翁繩玉)
-    image: "/images/uploads/graduation_t/09406graduation_p00.jpg"
-  - title: 民國95年畢業(第17任校長 翁繩玉)
-    image: "/images/uploads/graduation_t/09506graduation_p00.jpg"
-  - title: 民國96年畢業(第17任校長 翁繩玉)
-    image: "/images/uploads/graduation_t/09606graduation_p00.jpg"
-  - title: 民國97年畢業(第18任校長 陳金山)
-    image: "/images/uploads/graduation_t/09706graduation_p00.jpg"
-  - title: 民國98年畢業(第18任校長 陳金山)
-    image: "/images/uploads/graduation_t/09806graduation_p00.jpg"
-  - title: 民國99年畢業(第18任校長 陳金山)
-    image: "/images/uploads/graduation_t/09906graduation_p00.jpg"
-  - title: 民國100年畢業(第18任校長 陳金山)
-    image: "/images/uploads/graduation_t/10006graduation_p00.jpg"
-  - title: 民國101年畢業(第18任校長 陳金山)
-    image: "/images/uploads/graduation_t/10106graduation_p00.jpg"
-  - title: 民國102年畢業(第19任校長 梁靜珊)
-    image: "/images/uploads/graduation_t/10206graduation_p00.jpg"
-  - title: 民國103年畢業(第19任校長 梁靜珊)
-    image: "/images/uploads/graduation_t/10306graduation_p00.jpg"
-  - title: 民國104年畢業(第19任校長 梁靜珊)
-    image: "/images/uploads/graduation_t/10406graduation_p00.jpg"
-  - title: 民國105年畢業(第19任校長 梁靜珊)
-    image: "/images/uploads/graduation_t/10506graduation_p00.jpg"
-  - title: 民國106年畢業(第20任校長 黎季昊)
-    image: "/images/uploads/graduation_t/10606graduation_p00.jpg"
-  - title: 民國107年畢業(第20任校長 黎季昊)
-    image: "/images/uploads/graduation_t/10706graduation_p00.jpg"
-  - title: 民國108年畢業(第20任校長 黎季昊)
-    image: "/images/uploads/graduation_t/10806graduation_p00.jpg"
-  - title: 民國109年畢業(第20任校長 黎季昊)
-    image: "/images/uploads/graduation_t/10906graduation_p00.jpg"
-  - title: 民國110年畢業(第20任校長 黎季昊)
-    image: "/images/uploads/graduation_t/11006graduation_p00.jpg"
+  - title: 
+    image: "https://i.imgur.com/SHXybTo.jpg"
+  - title: 
+    image: "https://i.imgur.com/zaatGpC.jpg"
+  - title: 
+    image: "https://i.imgur.com/MtZW3aP.jpg"
+  - title: 
+    image: "https://i.imgur.com/HgqMWpA.jpg"
+  - title: 
+    image: "https://i.imgur.com/ng21nGE.jpg"
+  - title: 
+    image: "https://i.imgur.com/91tBrLV.jpg"
+  - title: 
+    image: "https://i.imgur.com/pnrYQM1.jpg"
+  - title: 
+    image: "https://i.imgur.com/JFtamE1.jpg"
+  - title: 
+    image: "https://i.imgur.com/gqkjLn8.jpg"
+  - title: 
+    image: "https://i.imgur.com/SoMROJG.jpg"
+  - title: 
+    image: "https://i.imgur.com/WwhOv35.jpg"
+  - title: 
+    image: "https://i.imgur.com/S1nsso3.jpg"
+  - title: 
+    image: "https://i.imgur.com/8mu1773.jpg"
+  - title: 
+    image: "https://i.imgur.com/hVx6Rsf.jpg"
+  - title: 
+    image: "https://i.imgur.com/3G6RFjt.jpg"
+  - title: 
+    image: "https://i.imgur.com/gOrSHX9.jpg"
+  - title: 
+    image: "https://i.imgur.com/tp8MPVr.jpg"
+  - title: 
+    image: "https://i.imgur.com/ATwhuMu.jpg"
+  - title: 
+    image: "https://i.imgur.com/il7873F.jpg"
+  - title: 
+    image: "https://i.imgur.com/C4BMzdO.jpg"
+  - title: 
+    image: "https://i.imgur.com/cXbFBJ0.jpg"
+  - title: 
+    image: "https://i.imgur.com/FchACPC.jpg"
+  - title: 
+    image: "https://i.imgur.com/4QbB30e.jpg"
+  - title: 
+    image: "https://i.imgur.com/Y0A4RAt.jpg"
+  - title: 
+    image: "https://i.imgur.com/PpOYv2J.jpg"
+  - title: 
+    image: "https://i.imgur.com/YOzXBI2.jpg"
+  - title: 
+    image: "https://i.imgur.com/G1NRtxQ.jpg"
+  - title: 
+    image: "https://i.imgur.com/JI6ZMHp.jpg"
+  - title: 
+    image: "https://i.imgur.com/sWG0wej.jpg"
+  - title: 
+    image: "https://i.imgur.com/DtNWDXq.jpg"
+  - title: 
+    image: "https://i.imgur.com/gChiGpN.jpg"
+  - title: 
+    image: "https://i.imgur.com/J4shWnU.jpg"
+  - title: 
+    image: "https://i.imgur.com/842hu5o.jpg"
+  - title: 
+    image: "https://i.imgur.com/6VWVg77.jpg"
+  - title: 
+    image: "https://i.imgur.com/x28EVvJ.jpg"
+  - title: 
+    image: "https://i.imgur.com/DEwd27p.jpg"
+  - title: 
+    image: "https://i.imgur.com/0pbSWq2.jpg"
+  - title: 
+    image: "https://i.imgur.com/v8iJ8ac.jpg"
+  - title: 
+    image: "https://i.imgur.com/vfa5FsM.jpg"
+  - title: 
+    image: "https://i.imgur.com/EReFQAz.jpg"
+  - title: 
+    image: "https://i.imgur.com/2IzXJwt.jpg"
+  - title: 
+    image: "https://i.imgur.com/1KaLJjc.jpg"
+  - title: 
+    image: "https://i.imgur.com/NL1QnIH.jpg"
+  - title: 
+    image: "https://i.imgur.com/nAoFg39.jpg"
+  - title: 
+    image: "https://i.imgur.com/B0s5Ux2.jpg"
+  - title: 
+    image: "https://i.imgur.com/XXqYQdG.jpg"
+  - title: 
+    image: "https://i.imgur.com/D5Sxfv0.jpg"
+  - title: 
+    image: "https://i.imgur.com/zDu2Nt6.jpg"
 ---

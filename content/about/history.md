@@ -2,9 +2,18 @@
 title: 校史簡介
 lastmod: 2019-01-28
 layout: history
-img1: /images/uploads/invitation/invitation-01.png
-img2: /images/uploads/invitation/invitation-02.png
+img1: https://i.imgur.com/olvA1pZ.jpg
+img2: https://i.imgur.com/8y0l1Jk.jpg
+img3: https://i.imgur.com/Cd35xmN.jpg
+img4: https://i.imgur.com/Pme7ri7.jpg
+img5: https://i.imgur.com/e6BGOOX.jpg
+img6: https://i.imgur.com/bVUAkvd.jpg
+img7: https://i.imgur.com/pzLfEkU.jpg
+img8: https://i.imgur.com/CHEm5IF.jpg
+img9: https://i.imgur.com/zL0ymtX.jpg
 ---
+
+#### 學校簡史
 
 民國10年(西元1921年，大正10年) 日治時期學校成立於合誠宮私塾「紅壇」，命名為「草山公學校坪頂分離教室」。
 
@@ -26,3 +35,7 @@ img2: /images/uploads/invitation/invitation-02.png
 
 民國110年6月6日(西元2021年6月6日) 臺北市士林區平等國民小學百周年校慶。
 
+ 
+ 
+ 
+ 

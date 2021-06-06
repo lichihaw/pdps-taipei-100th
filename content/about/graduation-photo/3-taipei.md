@@ -18,7 +18,7 @@ block:
   - title: 
     image: "https://i.imgur.com/HgqMWpA.jpg"
   - title: 
-    image: "https://i.imgur.com/ng21nGE.jpg"
+    image: "https://i.imgur.com/vrHUqaL.jpg"
   - title: 
     image: "https://i.imgur.com/91tBrLV.jpg"
   - title: 
